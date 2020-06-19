@@ -5,9 +5,20 @@
 ** print digit 012 to 789
 */
 
-#include <unistd.h>
+#include "../../include/my.h"
 
-void my_putchar(char c);
+static void print_comb(char a, char b, char c)
+{
+    my_putchar(c);
+    my_putchar(b);
+    my_putchar(a);
+}
+
+static void print_indent(void)
+{
+    my_putchar(',');
+    my_putchar(' ');
+}
 
 int my_print_comb(void)
 {
@@ -37,14 +48,3 @@ int my_print_comb(void)
     return (0);
 }
 
-void print_comb(char a, char b, char c)
-{
-    my_putchar(c);
-    my_putchar(b);
-    my_putchar(a);
-}
-void print_indent(void)
-{
-    my_putchar(',');
-    my_putchar(' ');
-}

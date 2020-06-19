@@ -5,8 +5,7 @@
 ** swap 2 pointer
 */
 
-#include <stdlib.h>
-#include <stdio.h>
+#include "../../include/my.h"
 
 int my_swap(int *a, int *b)
 {

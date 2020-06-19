@@ -5,9 +5,7 @@
 ** print numb
 */
 
-#include <unistd.h>
-
-void my_putchar(char c);
+#include "../../include/my.h"
 
 int my_put_nbr(int nb)
 {

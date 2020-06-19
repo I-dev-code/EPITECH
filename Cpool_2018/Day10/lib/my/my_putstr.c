@@ -5,9 +5,7 @@
 ** print caract 1by1
 */
 
-#include <unistd.h>
-
-void my_putchar(char c);
+#include "../../include/my.h"
 
 int my_putstr(char const *str)
 {

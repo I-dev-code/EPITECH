@@ -5,9 +5,7 @@
 ** print P if integer positiv else N
 */
 
-#include <unistd.h>
-
-void my_putchar(char c);
+#include "../../include/my.h"
 
 int my_isneg(int n)
 {

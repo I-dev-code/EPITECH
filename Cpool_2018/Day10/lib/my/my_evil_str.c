@@ -5,9 +5,7 @@
 ** reverse a string
 */
 
-#include <unistd.h>
-
-int my_strlen(char const *str);
+#include "../../include/my.h"
 
 char *my_evil_str(char *str)
 {

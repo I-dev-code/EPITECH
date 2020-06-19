@@ -5,9 +5,7 @@
 ** print alphabet
 */
 
-#include <unistd.h>
-
-void my_putchar(char c);
+#include "../../include/my.h"
 
 int my_print_alpha(void)
 {

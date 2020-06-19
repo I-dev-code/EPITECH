@@ -5,9 +5,7 @@
 ** print all digit in order
 */
 
-#include <unistd.h>
-
-void my_putchar(char c);
+#include "../../include/my.h"
 
 int my_print_digits(void)
 {

@@ -58,6 +58,7 @@ all:		$(NAME)
 
 $(NAME):	$(OBJ)
 		$(CC) $(NAME) *.o
+		mv libmy.a ..
 
 clean:
 		rm -f $(OBJ)

@@ -5,8 +5,6 @@
 ** find good nb in a str
 */
 
-#include <unistd.h>
-
 int my_getnbr(char const *str)
 {
     int sign = 1;

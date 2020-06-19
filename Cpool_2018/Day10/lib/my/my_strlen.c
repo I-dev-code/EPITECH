@@ -5,7 +5,7 @@
 ** count nb caract of string
 */
 
-#include <unistd.h>
+#include "../../include/my.h"
 
 int my_strlen(char const *str)
 {

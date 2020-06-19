@@ -5,13 +5,9 @@
 ** str to word array
 */
 
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
+#include "../../include/my.h"
 
-int my_show_word_array(char *const *str);
-
-char **my_malloc(char const *str)
+static char **my_malloc(char const *str)
 {
     int a = 0;
     int e = 0;

@@ -5,11 +5,7 @@
 ** display content of an array of word
 */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
-void my_putchar(char c);
+#include "../../include/my.h"
 
 int my_show_word_array(char * const *tab)
 {

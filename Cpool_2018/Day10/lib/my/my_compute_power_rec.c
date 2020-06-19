@@ -5,8 +5,6 @@
 ** calc power in recursiv
 */
 
-#include <stdio.h>
-
 int my_compute_power_rec(int nb, int p)
 {
     int res;

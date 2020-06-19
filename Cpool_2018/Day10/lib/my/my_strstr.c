@@ -5,7 +5,7 @@
 ** as str compare
 */
 
-#include <stdio.h>
+#include "../../include/my.h"
 
 char *my_strstr(char *str, char const *to_find)
 {

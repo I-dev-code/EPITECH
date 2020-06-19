@@ -5,9 +5,25 @@
 **  00 01 to 98 99
 */
 
-#include <unistd.h>
+#include "../../include/my.h"
 
-void my_putchar(char c);
+static int print_comb2(int a, int b)
+{
+    int c = (a / 10);
+    int d = (a % 10);
+    int e = (b / 10);
+    int f = (b % 10);
+
+    my_putchar(c + 48);
+    my_putchar(d + 48);
+    my_putchar(' ');
+    my_putchar(e + 48);
+    my_putchar(f + 48);
+    if(a < 98) {
+        my_putchar(',');
+        my_putchar(' ');
+    }    
+}
 
 int my_print_comb2(void)
 {
@@ -25,20 +41,3 @@ int my_print_comb2(void)
     }
 }
 
-int print_comb2(int a, int b)
-{
-    int c = (a / 10);
-    int d = (a % 10);
-    int e = (b / 10);
-    int f = (b % 10);
-
-    my_putchar(c + 48);
-    my_putchar(d + 48);
-    my_putchar(' ');
-    my_putchar(e + 48);
-    my_putchar(f + 48);
-    if(a < 98) {
-        my_putchar(',');
-        my_putchar(' ');
-    }    
-}
