@@ -1,4 +1,4 @@
-# Epitech Computer Science School Projects
+# Epitech Computer Science School of Digital Innovation
 <br/>
 <p align="center">
 Some <a href="http://www.epitech.eu">Epitech</a> school's projects and pool made in first and second year.
