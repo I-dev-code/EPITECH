@@ -11,5 +11,5 @@ Some <a href="http://www.epitech.eu">Epitech</a> school's projects and pool made
 
 ## Table of Contents 
 - [1ft_year](#1ft_year): **Cpool and projects**
- - My first year to Epitech school with the famous C pool and all my projects.
+    - My first year to Epitech school with the famous C pool and all my projects.
 
