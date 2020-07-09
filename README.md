@@ -21,35 +21,35 @@ Some <a href="http://www.epitech.eu">Epitech</a> school's projects and pool made
 - [Day1](./1ft_year/Cpool_2018/Day01): **Unix Environment**
      - Script, git and linux files
   
-  - [Day2](./1ft_year/Cpool_2018/Day02): **Linux scripts**
+- [Day2](./1ft_year/Cpool_2018/Day02): **Linux scripts**
      - how_many_are_we.sh (read a .csv and count numbers of students)
      
-  - [Day3](./1ft_year/Cpool_2018/Day03): ** !text! **
+- [Day3](./1ft_year/Cpool_2018/Day03): ** !text! **
      - text
    
-  - [Day4](./1ft_year/Cpool_2018/Day04): ** !textt! **
+- [Day4](./1ft_year/Cpool_2018/Day04): ** !textt! **
      - text
  
-  - [Day5](./1ft_year/Cpool_2018/Day05): ** !textt! **
+- [Day5](./1ft_year/Cpool_2018/Day05): ** !textt! **
      - text
      
-  - [Day6](./1ft_year/Cpool_2018/Day06): ** !textt! **
+- [Day6](./1ft_year/Cpool_2018/Day06): ** !textt! **
      - text
      
-  - [Day7](./1ft_year/Cpool_2018/Day07): ** !textt! **
+- [Day7](./1ft_year/Cpool_2018/Day07): ** !textt! **
      - text  
      
-  - [Day8](./1ft_year/Cpool_2018/Day08): ** !textt! **
+- [Day8](./1ft_year/Cpool_2018/Day08): ** !textt! **
      - text
  
-  - [Day9](./1ft_year/Cpool_2018/Day09): ** !textt! **
+- [Day9](./1ft_year/Cpool_2018/Day09): ** !textt! **
      - text
  
-  - [Day10](./1ft_year/Cpool_2018/Day10): ** !textt! **
+- [Day10](./1ft_year/Cpool_2018/Day10): ** !textt! **
      - text
      
-  - [Day11](./1ft_year/Cpool_2018/Day11): ** !textt! **
+- [Day11](./1ft_year/Cpool_2018/Day11): ** !textt! **
      - text
 
-  - [Day12](./1ft_year/Cpool_2018/Day12): ** !textt! **
+- [Day12](./1ft_year/Cpool_2018/Day12): ** !textt! **
      - text
