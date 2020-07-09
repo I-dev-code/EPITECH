@@ -18,35 +18,28 @@ Some <a href="http://www.epitech.eu">Epitech</a> school's projects and pool made
 ## [1ft_year: Cpool](./1ft_year/Cpool_2018): **Unix and C basics**
 <p align="right"><a href="#top">Back to top</a></p>
 
-- [Day1](./1ft_year/Cpool_2018/Day01): **Unix Environment**
-     - Script, git and linux files 
-- [Day2](./1ft_year/Cpool_2018/Day02): **Linux scripts**
-     - how_many_are_we.sh (read a .csv and count numbers of students)   
-- [Day3](./1ft_year/Cpool_2018/Day03): ** !text! **
-     - text
-- [Day4](./1ft_year/Cpool_2018/Day04): ** !textt! **
-     - text
- 
-- [Day5](./1ft_year/Cpool_2018/Day05): ** !textt! **
-     - text
-     
-- [Day6](./1ft_year/Cpool_2018/Day06): ** !textt! **
-     - text
-     
-- [Day7](./1ft_year/Cpool_2018/Day07): ** !textt! **
-     - text  
-     
-- [Day8](./1ft_year/Cpool_2018/Day08): ** !textt! **
-     - text
- 
-- [Day9](./1ft_year/Cpool_2018/Day09): ** !textt! **
-     - text
- 
-- [Day10](./1ft_year/Cpool_2018/Day10): ** !textt! **
-     - text
-     
-- [Day11](./1ft_year/Cpool_2018/Day11): ** !textt! **
-     - text
+- [Subjects](./1ft_year/Cpool_2018/Subjects) ** All subjects of my C pool **
 
-- [Day12](./1ft_year/Cpool_2018/Day12): ** !textt! **
-     - text
+- [Day1](./1ft_year/Cpool_2018/Day01): **Unix Environment**
+     
+- [Day2](./1ft_year/Cpool_2018/Day02): **Linux scripts**
+     
+- [Day3](./1ft_year/Cpool_2018/Day03): **First C programm**
+
+- [Day4](./1ft_year/Cpool_2018/Day04): **Pointers(I)**
+
+- [Day5](./1ft_year/Cpool_2018/Day05): **Recursion**
+
+- [Day6](./1ft_year/Cpool_2018/Day06): **Pointers(II)**
+
+- [Day7](./1ft_year/Cpool_2018/Day07): **Libraries and argc/argv**
+ 
+- [Day8](./1ft_year/Cpool_2018/Day08): **Compiler lines - C dynamic memory allocation**
+
+- [Day9](./1ft_year/Cpool_2018/Day09): **Structures - Include**
+
+- [Day10](./1ft_year/Cpool_2018/Day10): **make, function pointers**
+
+- [Day11](./1ft_year/Cpool_2018/Day11): **linked lists**
+
+- [Day12](./1ft_year/Cpool_2018/Day12): **file descriptors**
