@@ -19,14 +19,11 @@ Some <a href="http://www.epitech.eu">Epitech</a> school's projects and pool made
 <p align="right"><a href="#top">Back to top</a></p>
 
 - [Day1](./1ft_year/Cpool_2018/Day01): **Unix Environment**
-     - Script, git and linux files
-  
+     - Script, git and linux files 
 - [Day2](./1ft_year/Cpool_2018/Day02): **Linux scripts**
-     - how_many_are_we.sh (read a .csv and count numbers of students)
-     
+     - how_many_are_we.sh (read a .csv and count numbers of students)   
 - [Day3](./1ft_year/Cpool_2018/Day03): ** !text! **
      - text
-   
 - [Day4](./1ft_year/Cpool_2018/Day04): ** !textt! **
      - text
  
