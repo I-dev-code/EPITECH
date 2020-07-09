@@ -17,7 +17,7 @@ Some <a href="http://www.epitech.eu">Epitech</a> school's projects and pool made
  
 <a name="1ft_yearCpool"></a>
 
-## [1ft_year: Cpool](./1ft_year/Cpool_2018): **Unix and C basics**
+## [1ft_year: Cpool](./1ft_year/Cpool_2018)[Subjects here](./1ft_year/Cpool_2018/Subjects): **Unix and C basics**
 <p align="right"><a href="#top">Back to top</a></p>
 
 - [Subjects](./1ft_year/Cpool_2018/Subjects) **All subjects of my C pool**
@@ -49,7 +49,7 @@ Some <a href="http://www.epitech.eu">Epitech</a> school's projects and pool made
 
 <a name="1ft_yearProjects"></a>
 
-<p>
-    
 ## [1ft_year: Projects](./1ft_year/Projects): **Advanced C projects**
 <p align="right"><a href="#top">Back to top</a></p>
+
+ - 
