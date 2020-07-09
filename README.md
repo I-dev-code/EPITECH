@@ -10,10 +10,12 @@ Some <a href="http://www.epitech.eu">Epitech</a> school's projects and pool made
 <a name="top"></a>
 
 ## Table of Contents 
-- [1ft_year](#1ft_year): **Cpool and projects**
-    - My first year to Epitech school with the famous C pool and all my projects.
-
-<a name="1ft_year"></a>
+- [1ft_year: Cpool](#1ft_yearCpool): **C pool of EPITECH**
+    - My first year to Epitech school with the famous C pool.
+- [1ft_year: Projects](#1ft_yearProjects): **First year projects**
+    - My first year to Epitech school all projects i make.
+ 
+<a name="1ft_yearCpool"></a>
 
 ## [1ft_year: Cpool](./1ft_year/Cpool_2018): **Unix and C basics**
 <p align="right"><a href="#top">Back to top</a></p>
@@ -43,3 +45,6 @@ Some <a href="http://www.epitech.eu">Epitech</a> school's projects and pool made
 - [Day11](./1ft_year/Cpool_2018/Day11): **linked lists**
 
 - [Day12](./1ft_year/Cpool_2018/Day12): **file descriptors**
+
+
+<a name="1ft_yearProjects"></a>
