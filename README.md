@@ -58,7 +58,7 @@ Some <a href="http://www.epitech.eu">Epitech</a> school's projects and pool made
   - [My_runner](./1ft_year/Projects/C_Graph_Prog/my_runner): Game with a scrolling camera in which the character must stay, while dodging obstacles. It's a endless running game.
   - [My_defender](./1ft_year/Projects/C_Graph_Prog/my_defender): Game based on tower defense game (clash royals, plants vs zombies...)
   
-<p></p>- [ELEMENTARY_PROGRAMMING_IN_C](./1ft_year/Projects/Elementary_Programming_C): **Projects in C language**
+- [ELEMENTARY_PROGRAMMING_IN_C](./1ft_year/Projects/Elementary_Programming_C): **Projects in C language**
   * [Subects](./1ft_year/Projects/Elementary_Programming_C/Subects): Purpose of this unit is to understand C language with algorithms.<p></p>
   - [The BSQ](./1ft_year/Projects/Elementary_Programming_C/BSQ): Algorithm which find biggest square in a given map with obstacles.
   - [The Dante's star](./1ft_year/Projects/Elementary_Programming_C/Dante_star): Algorithm generating perfect or not maze. + Algorithm to solve the making maze.
