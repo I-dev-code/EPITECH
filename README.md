@@ -52,11 +52,11 @@ Some <a href="http://www.epitech.eu">Epitech</a> school's projects and pool made
 ## [First year: Projects](./1ft_year/Projects): **Advanced C projects**
 <p align="right"><a href="#top">Back to top</a></p>
 
-- [C GRAPHICAL PROGRAMMING](./1ft_year/Projects/C_Graph_Prog): **Projects with CSFML (lib graphical)**
-  * [Subects](./1ft_year/Projects/C_Graph_Prog/Subects): Purpose of this unit is to make fun and functional games.<p></p>
-  - [My_hunter](./1ft_year/Projects/C_Graph_Prog/my_hunter): Game made with CSFML librairie based on the famous duck hunt game.
-  - [My_runner](./1ft_year/Projects/C_Graph_Prog/my_runner): Game with a scrolling camera in which the character must stay, while dodging obstacles. It's a endless running game.
-  - [My_defender](./1ft_year/Projects/C_Graph_Prog/my_defender): Game based on tower defense game (clash royals, plants vs zombies...)
+- [C GRAPHICAL PROGRAMMING](./1ft_year/Projects/C_Graphical_Prog): **Projects with CSFML (lib graphical)**
+  * [Subects](./1ft_year/Projects/C_Graphical_Prog/Subects): Purpose of this unit is to make fun and functional games.<p></p>
+  - [My_hunter](./1ft_year/Projects/C_Graphical_Prog/my_hunter): Game made with CSFML librairie based on the famous duck hunt game.
+  - [My_runner](./1ft_year/Projects/C_Graphical_Prog/my_runner): Game with a scrolling camera in which the character must stay, while dodging obstacles. It's a endless running game.
+  - [My_defender](./1ft_year/Projects/C_Graphical_Prog/my_defender): Game based on tower defense game (clash royals, plants vs zombies...)
   
 - [ELEMENTARY_PROGRAMMING_IN_C](./1ft_year/Projects/Elementary_Programming_C): **Projects in C language**
   * [Subects](./1ft_year/Projects/Elementary_Programming_C/Subects): Purpose of this unit is to understand C language with algorithms.<p></p>
@@ -68,7 +68,7 @@ Some <a href="http://www.epitech.eu">Epitech</a> school's projects and pool made
   - [The Pushswap](./1ft_year/Projects/Elementary_Programming_C/Pushswap): Learning data sorting, yes, but also as quickly as possible!
  
 
-- [INTRODUCTION_TO_ARTIFICIAL_INTELLIGENCE](./1ft_year/Projects/Elementary_Programming_C/Intro_to_AI) **Project in C language, discovering world of Artificial Inteligency**
-  * [Subject](./1ft_year/Projects/Elementary_Programming_C/Intro_to_AI/Subject): Purpose of thiis unit is to simulating an autonomous car.<p></p>
-  - [Need4Stek](./1ft_year/Projects/Elementary_Programming_C/Intro_to_AI/Need4Stek): create my own autonomous car. It's capable
+- [INTRODUCTION_TO_ARTIFICIAL_INTELLIGENCE](./1ft_year/Projects/Intro_to_AI) **Project in C language, discovering world of Artificial Inteligency**
+  * [Subject](./1ft_year/Projects/Intro_to_AI/Subject): Purpose of thiis unit is to simulating an autonomous car.<p></p>
+  - [Need4Stek](./1ft_year/Projects/Intro_to_AI/Need4Stek): create my own autonomous car. It's capable
 of driving on a track without hitting the walls or driving in the wrong direction.
