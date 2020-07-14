@@ -68,4 +68,7 @@ Some <a href="http://www.epitech.eu">Epitech</a> school's projects and pool made
   - [The Pushswap](./1ft_year/Projects/Elementary_Programming_C/Pushswap): Learning data sorting, yes, but also as quickly as possible!
  
 
--[INTRODUCTION_TO_ARTIFICIAL_INTELLIGENCE]
+- [INTRODUCTION_TO_ARTIFICIAL_INTELLIGENCE](./1ft_year/Projects/Elementary_Programming_C/Intro_to_AI) **Project in C language, discovering world of Artificial Inteligency**
+  * [Subject](./1ft_year/Projects/Elementary_Programming_C/Intro_to_AI/Subject): Purpose of thiis unit is to simulating an autonomous car.<p></p>
+  - [Need4Stek](./1ft_year/Projects/Elementary_Programming_C/Intro_to_AI/Need4Stek): create my own autonomous car. It's capable
+of driving on a track without hitting the walls or driving in the wrong direction.
