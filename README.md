@@ -72,3 +72,16 @@ Some <a href="http://www.epitech.eu">Epitech</a> school's projects and pool made
   * [Subject](./1ft_year/Projects/Intro_to_AI/Subject): Purpose of thiis unit is to simulating an autonomous car.<p></p>
   - [Need4Stek](./1ft_year/Projects/Intro_to_AI/Need4Stek): create my own autonomous car. It's capable
 of driving on a track without hitting the walls or driving in the wrong direction.
+
+- [SHELL_PROGRAMMING](./1ft_year/Projects/Shell_Programming) **Project in C language, making is own shell**
+  * [Subjects](./1ft_year/Projects/Shell_Programming/Subjects): Purpose of this unit is to make is own shell with basic command and all features we can<p></p>
+  - [Minishell2](./1ft_year/Projects/Shell_Programming/minishell2): First step for a entire minishell, with basic command, pipe, dup...
+  - [42sh](./1ft_year/Projects/Shell_Programming/42sh): Final shell.
+
+- [UNIX_SYSTEM_PROGRAMMING](./1ft_year/Projects/Unix_System_Programming) **All the fundamental elements of UNIX programming**
+  * [Subjects](./1ft_year/Projects/Unix_System_Programming/Subjects): Know how to execute system calls and be capable of solving algorithmic problems.<p></p>
+  - [Navy](./1ft_year/Projects/Unix_System_Programming/Navy): You must code a terminal version of the Navy. The two players comunicate using the signals SIGUSER1 and SIGUSER2
+  - [Tetris](./1ft_year/Projects/Unix_System_Programming/Tetris): The goal of this project is to recreate the Tetris game in a UNIX terminal, with the Gameboy version rules, with ncurses lib.
+  - [ls command](./1ft_year/Projects/Unix_System_Programming/my_ls): Recode the ls [-lRdrt] [FILE] command.
+  - [printf command](./1ft_year/Projects/Unix_System_Programming/my_printf): Recode the printf function from the C library according to the C99 standard. 
+  - [sokoban](./1ft_year/Projects/Unix_System_Programming/my_sokoban): Develop a copy of the japanese game, in terminal mode with ncurses lib.
